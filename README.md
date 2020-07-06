@@ -3,7 +3,7 @@
 ![](taqa-neyveli.jpg)
 
 ## Project Outline - 
-- The underlying motive of this project is to **solve the problem of frequent Power Cuts in TamilNadu** .The problem stated ( ) was observed my me during my visit to **TAQA Neyveli Power Company as an Inplant Trainee in the month of January-2020**.
+- The underlying motive of this project is to **solve the problem of frequent Power Cuts in TamilNadu** .The problem stated in the notebook was observed my me during my visit to **TAQA Neyveli Power Company as an Inplant Trainee in the month of January-2020**.
 - Visualized the problem of overfitting by calculating the tradeoff between dev & test sets . **Generation of Gaussian Noise** & **Feature creation** were done to solve the same .
 - Performed EDA (Exploratory Data Analysis) to identify the **problem of outliers & Skewness** . Key decisions were made to resolve them . 
 - Ran over 11 models to see which performs better . 
