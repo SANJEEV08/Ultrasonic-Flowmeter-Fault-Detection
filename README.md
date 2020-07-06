@@ -7,7 +7,7 @@
 - Visualized the problem of overfitting by calculating the tradeoff between dev & test sets . **Generation of Gaussian Noise** & **Feature creation** were done to solve the same .
 - Performed EDA (Exploratory Data Analysis) to identify the **problem of outliers & Skewness** . Key decisions were made to resolve them . 
 - Ran over 11 models to see which performs better . 
-- Built a client facing API using the following : 1. Streamlit - Local webserver & 2. Heroku - Cloud 
+- Built a client facing API using Streamlit to monitor locally . 
 
 ## Data Cleaning - 
 Ran a preliminary model to see whether the model was overfitting or not . Yes , the model had overfit & this was evident from the **tradeoff score** .The following solutions were devised & performed :
@@ -31,4 +31,4 @@ I looked at the distributions of the data and the value counts for the various c
 ![](model-performance.PNG)
 
 ## Productionization - 
-In this step, I built a Streamlit app which was hosted on a local webserver by following along with the Youtube videos in the reference section above. The app takes in a request with a list of values from the meter and returns an approximate prediction class . Furthermore the app is hosted on the cloud via the Heroku platform for multiple access all across the company . 
+In this step, I built a Streamlit app which was hosted on a local webserver by following along with the Youtube videos in the reference section above. The app takes in a request with a list of values from the meter and returns an approximate prediction class . 
