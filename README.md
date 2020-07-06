@@ -34,8 +34,8 @@ I looked at the distributions of the data and the value counts for the various c
 In this step, I built a Streamlit app which was hosted on a local webserver by following along with the Youtube videos in the reference section below. The app takes in a request with a list of values from the meter and returns an approximate prediction class . 
 
 ## Code & Resources Used -
-- **Python Version:** 3.7
-- **Packages**: pandas, numpy, sklearn, matplotlib, seaborn, pickle .
+- **Python Version :** 3.7
+- **Packages:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Pickle .
 - **Ideation Phase :** https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 - **Concepts :** https://www.youtube.com/user/krishnaik06
 - **Streamlit Tutorial :** https://www.youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
