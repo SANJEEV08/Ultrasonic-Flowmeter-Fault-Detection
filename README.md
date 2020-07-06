@@ -23,9 +23,8 @@ I looked at the distributions of the data and the value counts for the various c
 
 ## Model Building & Model Performance - 
 - First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20% . 
-- The Evaluation metric chosen was **F1 Score** because it has the **combination of both Precision & Recall with which we will quote our solution to the problem** .  
-- Below are the cross-validation scores for different model :
-![](model-performance.png)
+- The Evaluation metric chosen was **F1 Score** because it has the **combination of both Precision & Recall with which we will quote our solution to the problem** . Below are the cross-validation scores for different models :
+![](model-performance.PNG)
 
 ## Productionization - 
 In this step, I built a Streamlit app which was hosted on a local webserver by following along with the Youtube videos in the reference section above. The app takes in a request with a list of values from the meter and returns an approximate prediction class . Furthermore the app is hosted on the cloud via the Heroku platform for multiple access all across the company . 
