@@ -35,7 +35,7 @@ In this step, I built a Streamlit app which was hosted on a local webserver by f
 
 ## Code & Resources Used -
 - **Python Version :** 3.7
-- **Packages :** Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Pickle .
+- **Packages :** Pandas, Numpy, Sklearn, Scipy , Matplotlib, Seaborn, Pickle .
 - **Ideation Phase :** https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 - **Concepts :** https://www.youtube.com/user/krishnaik06
 - **Streamlit Tutorial :** https://www.youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
