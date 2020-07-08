@@ -7,7 +7,7 @@
 - Visualized the problem of overfitting by calculating the tradeoff between dev & test sets . **Generation of Gaussian Noise** & **Feature creation** were done to solve the same .
 - Performed EDA (Exploratory Data Analysis) to identify the **problem of outliers & Skewness** . Key decisions were made to resolve them . 
 - Ran over 11 models to see which performs better . 
-- Built a client facing API using Streamlit to monitor locally . 
+- Built a client facing API using **Streamlit** to monitor locally . 
 
 ## Data Cleaning - 
 Ran a preliminary model to see whether the model was overfitting or not . Yes , the model had overfit & this was evident from the **tradeoff score** .The following solutions were devised & performed :
