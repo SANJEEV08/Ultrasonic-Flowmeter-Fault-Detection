@@ -32,7 +32,7 @@ I looked at the distributions of all the features data and the value counts for 
 ![](model-performance.PNG)
 
 ## Productionization - 
-In this step, I built a Streamlit app which was hosted on a local webserver by following along with the Youtube videos in the Code & Resources Used section below. The app takes in a request with a list of values from the meter and returns an approximate prediction class . 
+In this step, I built a **Streamlit app** which was hosted on a local webserver by following along with the Youtube videos in the Code & Resources Used section below. The app takes in a request with a list of values from the meter and returns an approximate prediction class . 
 
 ## Code & Resources Used -
 - **Python Version :** 3.7
