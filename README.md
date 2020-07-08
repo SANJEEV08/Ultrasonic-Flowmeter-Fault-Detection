@@ -17,7 +17,8 @@ Ran a preliminary model to see whether the model was overfitting or not . Yes , 
 - Data augmentation by generating **Gaussian Noise** & **Random sampling** were performed . Gaussian Noise was set & generated between mu=0 & sigma=0.1 by choosing a random number within the constraints.
 
 ## EDA (Exploratory Data Analysis) - 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the analysis .
+I looked at the distributions of all the features data and the value counts for the various categorical variables. Below are a few highlights from the analysis .
+
 ![](correlation.png)
 ![](feature-correlation-1.png)
 ![](feature-correlation-2.png)  	
@@ -31,7 +32,7 @@ I looked at the distributions of the data and the value counts for the various c
 ![](model-performance.PNG)
 
 ## Productionization - 
-In this step, I built a Streamlit app which was hosted on a local webserver by following along with the Youtube videos in the reference section below. The app takes in a request with a list of values from the meter and returns an approximate prediction class . 
+In this step, I built a Streamlit app which was hosted on a local webserver by following along with the Youtube videos in the Code & Resources Used section below. The app takes in a request with a list of values from the meter and returns an approximate prediction class . 
 
 ## Code & Resources Used -
 - **Python Version :** 3.7
